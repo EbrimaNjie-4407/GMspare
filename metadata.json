@@ -1,0 +1,6 @@
+{
+  "name": "AutoSpares GM — Gambian Vehicle Spare-Parts Marketplace",
+  "description": "Comprehensive marketplace connecting mechanics and automotive spare-parts dealers across The Gambia with part requests, voice notes, inventory browsing, offers, and delivery coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
